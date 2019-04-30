@@ -1,6 +1,6 @@
 # Ant-WebProject
 
-Once you run the ant command, it will generate the jar file.adding add
+Once you run the ant command, it will generate the jar file.adding add changes
 
 Run the jar file as follows.
 # java -jar <<Path to Jar file>>/HelloWorld-20170629.jar
